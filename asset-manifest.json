@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/assignmentaddproduct/static/css/main.3456f61e.chunk.css",
+    "main.js": "/assignmentaddproduct/static/js/main.b4b54792.chunk.js",
+    "main.js.map": "/assignmentaddproduct/static/js/main.b4b54792.chunk.js.map",
+    "runtime-main.js": "/assignmentaddproduct/static/js/runtime-main.aa05c033.js",
+    "runtime-main.js.map": "/assignmentaddproduct/static/js/runtime-main.aa05c033.js.map",
+    "static/js/2.bf0fe9d5.chunk.js": "/assignmentaddproduct/static/js/2.bf0fe9d5.chunk.js",
+    "static/js/2.bf0fe9d5.chunk.js.map": "/assignmentaddproduct/static/js/2.bf0fe9d5.chunk.js.map",
+    "static/js/3.1a8841ef.chunk.js": "/assignmentaddproduct/static/js/3.1a8841ef.chunk.js",
+    "static/js/3.1a8841ef.chunk.js.map": "/assignmentaddproduct/static/js/3.1a8841ef.chunk.js.map",
+    "index.html": "/assignmentaddproduct/index.html",
+    "static/css/main.3456f61e.chunk.css.map": "/assignmentaddproduct/static/css/main.3456f61e.chunk.css.map",
+    "static/js/2.bf0fe9d5.chunk.js.LICENSE.txt": "/assignmentaddproduct/static/js/2.bf0fe9d5.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/assignmentaddproduct/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa05c033.js",
+    "static/js/2.bf0fe9d5.chunk.js",
+    "static/css/main.3456f61e.chunk.css",
+    "static/js/main.b4b54792.chunk.js"
+  ]
+}
