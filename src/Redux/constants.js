@@ -1,0 +1,1 @@
+export const ADD_SHOP_DATA = 'ADD_SHOP_DATA';
